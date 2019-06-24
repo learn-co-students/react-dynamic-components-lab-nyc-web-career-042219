@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import BlogPost from './BlogPost.js'
 import ColorBox from './ColorBox.js'
+// import React, { Comment } from 'react';
 
 class App extends Component {
   
